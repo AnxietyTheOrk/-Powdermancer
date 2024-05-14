@@ -3,6 +3,7 @@ Guns that scale and evolve
 Guns channeling modified spells.
 
 Primary attribute: Int
+
 Secondary Attribute: Dex
 
 Spell list: TBD
