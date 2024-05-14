@@ -1,0 +1,34 @@
+new equipment "EQP_CC_Powdermancer"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "Main gun"
+add equipmentgroup
+add equipment entry "maybe other weapon"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "boots"
+add equipmentgroup
+add equipment entry "shirt and pants"
+add equipmentgroup
+add equipment entry "maybe offhand"
+add equipmentgroup
+add equipment entry "don't know"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "Lore book"
+add equipmentgroup
+add equipment entry "dont know"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"

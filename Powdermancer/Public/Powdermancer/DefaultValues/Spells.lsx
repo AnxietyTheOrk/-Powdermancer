@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Roughly 12 Cantrips"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="Powdermancer Cantrips"/>
+                    <attribute id="TableUUID" type="guid" value="Table UUID"/>
+                    <attribute id="UUID" type="guid" value="New UUID"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Same Cantrips"/>
+                    <attribute id="Level" type="int32" value="10"/>
+                    <attribute id="SelectorId" type="LSString" value="Powdermancer Cantrips"/>
+                    <attribute id="TableUUID" type="guid" value="Table UUID"/>
+                    <attribute id="UUID" type="guid" value="New UUID"/>
+                </node>
+
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Roughly 4 spells"/>
+                    <attribute id="Level" type="int32" value="2"/>
+                    <attribute id="SelectorId" type="LSString" value="Powdermancer specials"/>
+                    <attribute id="TableUUID" type="guid" value="Table UUID"/>
+                    <attribute id="UUID" type="guid" value="New UUID"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="2 specials"/>
+                    <attribute id="Level" type="int32" value="6"/>
+                    <attribute id="SelectorId" type="LSString" value="Powdermancer specials"/>
+                    <attribute id="TableUUID" type="guid" value="Table UUID"/>
+                    <attribute id="UUID" type="guid" value="New UUID"/>
+                </node>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Roughly 7 specials"/>
+                    <attribute id="Level" type="int32" value="10"/>
+                    <attribute id="SelectorId" type="LSString" value="Powdermancer specials"/>
+                    <attribute id="TableUUID" type="guid" value="Table UUID"/>
+                    <attribute id="UUID" type="guid" value="New UUID"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

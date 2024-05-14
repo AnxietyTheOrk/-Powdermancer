@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="330"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="1"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 1 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="2"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 2 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="3"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 3 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="true"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="4"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 4 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="5"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 5 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="6"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 6 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="7"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 7 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="true"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="8"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 8 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="9"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 9 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="10"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 10 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="11"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 11 UUID"/> 
+                </node>
+                <node id="Progression"> 
+                    <attribute id="AllowImprovement" type="bool" value="true"/> 
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(Slings);Proficiency(LightArmor);Proficiency(Other Proficiency)"/> 
+                    <attribute id="Level" type="uint8" value="12"/> 
+                    <attribute id="Name" type="LSString" value="Powdermancer"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(Skill Table UUID,2);AddSpells(Spell list UUID);SelectPassives(Passive list UUID,1);SelectAbilityBonus(Ability Bonus UUID,AbilityBonus,2,1)"/>
+                    <attribute id="TableUUID" type="guid" value="New Table UUID"/> 
+                    <attribute id="UUID" type="guid" value="Level 12 UUID"/> 
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

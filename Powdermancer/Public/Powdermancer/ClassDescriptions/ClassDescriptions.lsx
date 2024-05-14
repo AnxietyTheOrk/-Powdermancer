@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="7" build="406"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/> 
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Powdermancer"/> 
+                    <attribute id="Description" type="TranslatedString" handle="New UUID" version="1"/> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="New UUID" version="1"/> 
+                    <attribute id="HpPerLevel" type="int32" value="5"/> 
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/> 
+                    <attribute id="Name" type="FixedString" value="Powdermancer"/> 
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/> 
+                    <attribute id="ProgressionTableUUID" type="guid" value="29b323b1-d1fa-4882-a8f3-d4cb0ad6c158"/> 
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/> 
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="SpellList" type="guid" value="Spell list UUID"/>
+                    <attribute id="UUID" type="guid" value="New UUID"/> 
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c"/> 
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="Powdermancer Tag UUID"/> 
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="New UUID" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="New UUID" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Subclass 1"/> 
+                    <attribute id="ParentGuid" type="guid" value="Powdermancer UUID"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="Progression Table UUID"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="SpellList" type="guid" value="Spell list UUID"/>
+                    <attribute id="UUID" type="guid" value="New UUID"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c"/> Dialogue tag WIZARD (TODO?)
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="Powdermancer Tag UUID"/> Tag ARTIFICER
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="New UUID" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="New UUID" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Subclass 2"/> 
+                    <attribute id="ParentGuid" type="guid" value="Powdermancer UUID"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="Progression Table UUID"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="SpellList" type="guid" value="Spell list UUID"/>
+                    <attribute id="UUID" type="guid" value="New UUID"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c"/> Dialogue tag WIZARD (TODO?)
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="Powdermancer Tag UUID"/> Tag ARTIFICER
+                        </node>
+                    </children>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="New UUID" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="New UUID" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Subclass 3"/> 
+                    <attribute id="ParentGuid" type="guid" value="Powdermancer UUID"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="Progression Table UUID"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="SpellList" type="guid" value="Spell list UUID"/>
+                    <attribute id="UUID" type="guid" value="New UUID"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c"/> Dialogue tag WIZARD (TODO?)
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="Powdermancer Tag UUID"/> Tag ARTIFICER
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
