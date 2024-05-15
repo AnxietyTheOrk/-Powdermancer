@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Scaling_Weapon" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="new handle" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="new handle" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="Scaling_Weapon" />
+			<attribute id="UUID" type="guid" value="f9e40d7c-af25-4e24-8ec2-a2e5f086b67f" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

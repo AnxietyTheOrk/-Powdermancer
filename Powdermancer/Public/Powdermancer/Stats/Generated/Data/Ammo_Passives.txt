@@ -1,0 +1,49 @@
+//Ammo Passives
+
+new entry "ATO_Ammo_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(Ammo,1,0)"
+data "Properties" "IsHidden"
+
+new entry "ATO_Ammo_Offhand_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(AmmoOffhand,1,0)"
+data "Properties" "IsHidden"
+
+new entry "ATO_Ammo_SixShot_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(Ammo,6,0)"
+data "Properties" "IsHidden"
+
+new entry "ATO_Ammo_SixShot_Offhand_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(AmmoOffhand,6,0)"
+data "Properties" "IsHidden"
+
+new entry "ATO_Ammo_LongArm_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(AmmoLongArm,1,0)"
+data "Properties" "IsHidden"
+
+new entry "ATO_Ammo_SixShot_LongArm_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(AmmoLongArm,6,0)"
+data "Properties" "IsHidden"
+
+new entry "ATO_Ammo_BLA_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(AmmoLongArm,3,0)"
+data "Properties" "IsHidden"
+
+new entry "ATO_Extra_Ammo_BLA_Passive"
+type "PassiveDate"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(AmmoLongarm,5,0)"
+data "Properties" "IsHidden"

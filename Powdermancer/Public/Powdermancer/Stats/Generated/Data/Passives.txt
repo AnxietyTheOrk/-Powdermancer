@@ -1,49 +1,5 @@
-//Ammo Passives
-
-new entry "ATO_Ammo_Passive"
+new entry "Scaling_Bullet_Damage"
 type "PassiveData"
-data "DescriptionParams" ""
-data "Boosts" "ActionResource(Ammo,1,0)"
+data "DisplayName" "new handle;1"
 data "Properties" "IsHidden"
-
-new entry "ATO_Ammo_Offhand_Passive"
-type "PassiveData"
-data "DescriptionParams" ""
-data "Boosts" "ActionResource(AmmoOffhand,1,0)"
-data "Properties" "IsHidden"
-
-new entry "ATO_Ammo_SixShot_Passive"
-type "PassiveData"
-data "DescriptionParams" ""
-data "Boosts" "ActionResource(Ammo,6,0)"
-data "Properties" "IsHidden"
-
-new entry "ATO_Ammo_SixShot_Offhand_Passive"
-type "PassiveData"
-data "DescriptionParams" ""
-data "Boosts" "ActionResource(AmmoOffhand,6,0)"
-data "Properties" "IsHidden"
-
-new entry "ATO_Ammo_LongArm_Passive"
-type "PassiveData"
-data "DescriptionParams" ""
-data "Boosts" "ActionResource(AmmoLongArm,1,0)"
-data "Properties" "IsHidden"
-
-new entry "ATO_Ammo_SixShot_LongArm_Passive"
-type "PassiveData"
-data "DescriptionParams" ""
-data "Boosts" "ActionResource(AmmoLongArm,6,0)"
-data "Properties" "IsHidden"
-
-new entry "ATO_Ammo_BLA_Passive"
-type "PassiveData"
-data "DescriptionParams" ""
-data "Boosts" "ActionResource(AmmoLongArm,3,0)"
-data "Properties" "IsHidden"
-
-new entry "ATO_Extra_Ammo_BLA_Passive"
-type "PassiveDate"
-data "DescriptionParams" ""
-data "Boosts" "ActionResource(AmmoLongarm,5,0)"
-data "Properties" "IsHidden"
+data "Boosts" "IF(IsRangedWeaponAttack() and (ClassLevelHigherOrEqualThan(1,'Powdermancer') and not ClassLevelHigherOrEqualThan(3,'Powdermancer'))):DamageBonus(SpellcastingAbilityModifier);IF(IsRangedWeaponAttack() and (ClassLevelHigherOrEqualThan(3,'Powdermancer') and not ClassLevelHigherOrEqualThan(6,'Powdermancer'))):DamageBonus(2*SpellcastingAbilityModifier);IF(IsRangedWeaponAttack() and (ClassLevelHigherOrEqualThan(6,'Powdermancer') and not ClassLevelHigherOrEqualThan(9,'Powdermancer'))):DamageBonus(3*SpellcastingAbilityModifier);IF(IsRangedWeaponAttack() and (ClassLevelHigherOrEqualThan(9,'Powdermancer') and not ClassLevelHigherOrEqualThan(12,'Powdermancer'))):DamageBonus(4*SpellcastingAbilityModifier);"
