@@ -1,0 +1,13 @@
+Class UUID - f81276d7-735a-4992-a633-b2c3b458cca9
+
+Slayer Subclass UUID - 3800ee5d-92e1-4fe7-9ed9-7c7c603b082f
+
+Subclass 2 UUID - 545a3bfa-fb76-4d5b-b972-c693c386c75f
+
+Subclass 3 UUID - 0c5eadc8-98ba-4faf-8056-5b48d11e9ce4
+
+Powdermander Class Tag - b91176ac-edb9-496c-9d0e-80afd427e98a
+
+Table UUID - 77af6a8e-7244-49e2-bdec-ea0d7b02e320
+
+Broken Lever Action UUID - b8c9dbc6-6b8b-40b4-a53f-8c48a85e41ca

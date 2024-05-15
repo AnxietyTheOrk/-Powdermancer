@@ -1,0 +1,26 @@
+//Target_ElementalWeapon"
+//data "ContainerSpells" ""
+//data "SpellProperties" "IF(Item()):ApplyStatus(<em>ELEMENTAL_WEAPON_ACID</em>
+
+new entry "Target_ElementalWeapon_Acid"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_ElementalWeapon"
+data "SpellContainerID" "Target_ElementalWeapon"
+data "ContainerSpells" ""
+data "SpellProperties" "IF(Item()):ApplyStatus(ELEMENTAL_WEAPON_ACID,100,-1);IF(not Item()):ApplyEquipmentStatus(MainHand,ELEMENTAL_WEAPON_ACID,100,-1)"
+data "Icon" "Spell_Transmutation_ElementalWeapon_Acid"
+// Elemental Weapon: Acid
+data "DisplayName" "hbf5ee0d9g1057g4798gb43ag31e03dbc7427;2"
+// Imbue a weapon with a corrosive might. It receives a +1 bonus to <LSTag Tooltip="AttackRoll">Attack Rolls</LSTag>, and deals an additional [1].
+data "Description" "hf9e01bc9g4b62g4ce7ga0b6ga539df816f01;3"
+data "DescriptionParams" "DealDamage(1d4,Acid)"
+data "TooltipStatusApply" "ApplyStatus(ELEMENTAL_WEAPON_ACID, 100, -1)"
+data "PrepareSound" "Spell_Prepare_Buff_ElementalWeaponAcid_L1to3"
+data "PrepareLoopSound" "Spell_Loop_Buff_ElementalWeaponAcid_L1to3"
+data "CastSound" "Spell_Cast_Buff_ElementalWeaponAcid_L1to3"
+data "TargetSound" "Spell_Impact_Buff_ElementalWeaponAcid_L1to3"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsConcentration;IsSpell;IsMelee"
+data "PrepareEffect" "803e65f9-b27c-4e9c-af2a-8cf0e8e8564d"
+data "CastEffect" "dfb57578-dafa-4c39-9f6e-238b9e2c237d"
+data "TargetEffect" "89018ece-411e-4c00-94ec-6cb3743f4af5"
