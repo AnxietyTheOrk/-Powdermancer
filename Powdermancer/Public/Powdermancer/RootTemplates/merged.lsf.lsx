@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>		
+                <!--Broken Lever Action!-->		
+				<node id="GameObjects"> 
+					<attribute id="CanShootThrough" type="bool" value="True" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
+                    <attribute id="Description" type="TranslatedString" handle="ItemDescriptionHandle" version="1" /><!--Replace ItemDescriptionHandle with a new Handle generaged by Modders Multitool!--> 
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="IconName" /><!--Replace IconName with the name of an icon either from the game or that you are adding!-->
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					attribute id="MapKey" type="FixedString" value="b8c9dbc6-6b8b-40b4-a53f-8c48a85e41ca" /><!--Replace ItemUUID with a new UUID generaged by Modders Multitool and make it match the RootTemplates line in Weapons.txt!-->
+					<attribute id="Name" type="LSString" value="ATO_Broken_Lever_Action" /><!--Replace ItemName with the name of the item!-->
+					<attribute id="ParentTemplateId" type="FixedString" value="ItemParentUUID" /><!--Replace ItemParentUUID with the UUID of a ring you want to base this off of!-->
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Broken_Lever_Action" /><!--Replace ItemName with the name used for the item in the Weapons.txt!-->
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="VisualTemplateUUID" /><!--Replace VisualTemplateUUID with the UUID for the VisualTemplate for the model and textures of the item you want to use.!-->
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+				</node>
+                <!--Silenced Rifle!-->		
+				<node id="GameObjects"> 
+					<attribute id="CanShootThrough" type="bool" value="True" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
+                    <attribute id="Description" type="TranslatedString" handle="ItemDescriptionHandle" version="1" /><!--Replace ItemDescriptionHandle with a new Handle generaged by Modders Multitool!--> 
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="IconName" /><!--Replace IconName with the name of an icon either from the game or that you are adding!-->
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					attribute id="MapKey" type="FixedString" value="1d43d2be-2cc9-44fd-a622-8284a986a5e2" /><!--Replace ItemUUID with a new UUID generaged by Modders Multitool and make it match the RootTemplates line in Weapons.txt!-->
+					<attribute id="Name" type="LSString" value="ATO_Silenced_Rifle" /><!--Replace ItemName with the name of the item!-->
+					<attribute id="ParentTemplateId" type="FixedString" value="ItemParentUUID" /><!--Replace ItemParentUUID with the UUID of a ring you want to base this off of!-->
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Silenced_Rifle" /><!--Replace ItemName with the name used for the item in the Weapons.txt!-->
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="VisualTemplateUUID" /><!--Replace VisualTemplateUUID with the UUID for the VisualTemplate for the model and textures of the item you want to use.!-->
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+				</node>
+                <!--Scoped Rifle!-->		
+				<node id="GameObjects"> 
+					<attribute id="CanShootThrough" type="bool" value="True" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
+                    <attribute id="Description" type="TranslatedString" handle="ItemDescriptionHandle" version="1" /><!--Replace ItemDescriptionHandle with a new Handle generaged by Modders Multitool!--> 
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="IconName" /><!--Replace IconName with the name of an icon either from the game or that you are adding!-->
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					attribute id="MapKey" type="FixedString" value="53bee7a8-dad0-4684-9c4e-f5aa89e03796" /><!--Replace ItemUUID with a new UUID generaged by Modders Multitool and make it match the RootTemplates line in Weapons.txt!-->
+					<attribute id="Name" type="LSString" value="ATO_Scoped_Rifle" /><!--Replace ItemName with the name of the item!-->
+					<attribute id="ParentTemplateId" type="FixedString" value="ItemParentUUID" /><!--Replace ItemParentUUID with the UUID of a ring you want to base this off of!-->
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Scoped_Rifle" /><!--Replace ItemName with the name used for the item in the Weapons.txt!-->
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="VisualTemplateUUID" /><!--Replace VisualTemplateUUID with the UUID for the VisualTemplate for the model and textures of the item you want to use.!-->
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+				</node>
+                <!--Rifle with Extended Mag Tube!-->		
+				<node id="GameObjects"> 
+					<attribute id="CanShootThrough" type="bool" value="True" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
+                    <attribute id="Description" type="TranslatedString" handle="ItemDescriptionHandle" version="1" /><!--Replace ItemDescriptionHandle with a new Handle generaged by Modders Multitool!--> 
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="IconName" /><!--Replace IconName with the name of an icon either from the game or that you are adding!-->
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					attribute id="MapKey" type="FixedString" value="e9e3e1db-8faf-42cb-8500-a8c94ed5f3c0" /><!--Replace ItemUUID with a new UUID generaged by Modders Multitool and make it match the RootTemplates line in Weapons.txt!-->
+					<attribute id="Name" type="LSString" value="ATO_Bullets_Rifle" /><!--Replace ItemName with the name of the item!-->
+					<attribute id="ParentTemplateId" type="FixedString" value="ItemParentUUID" /><!--Replace ItemParentUUID with the UUID of a ring you want to base this off of!-->
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Bullets_Rifle" /><!--Replace ItemName with the name used for the item in the Weapons.txt!-->
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="VisualTemplateUUID" /><!--Replace VisualTemplateUUID with the UUID for the VisualTemplate for the model and textures of the item you want to use.!-->
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+				</node>
+            <!--Silencer!-->		
+				<node id="GameObjects"> 
+					<attribute id="CanShootThrough" type="bool" value="True" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
+                    <attribute id="Description" type="TranslatedString" handle="ItemDescriptionHandle" version="1" /><!--Replace ItemDescriptionHandle with a new Handle generaged by Modders Multitool!--> 
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="IconName" /><!--Replace IconName with the name of an icon either from the game or that you are adding!-->
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					attribute id="MapKey" type="FixedString" value="3928d37a-d3b4-4c27-9f32-69f82dc10cc1" /><!--Replace ItemUUID with a new UUID generaged by Modders Multitool and make it match the RootTemplates line in Weapons.txt!-->
+					<attribute id="Name" type="LSString" value="ATO_Silencer" /><!--Replace ItemName with the name of the item!-->
+					<attribute id="ParentTemplateId" type="FixedString" value="ItemParentUUID" /><!--Replace ItemParentUUID with the UUID of a ring you want to base this off of!-->
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Silencer" /><!--Replace ItemName with the name used for the item in the Weapons.txt!-->
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="VisualTemplateUUID" /><!--Replace VisualTemplateUUID with the UUID for the VisualTemplate for the model and textures of the item you want to use.!-->
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+				</node>
+            <!--Scope!-->		
+				<node id="GameObjects"> 
+					<attribute id="CanShootThrough" type="bool" value="True" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
+                    <attribute id="Description" type="TranslatedString" handle="ItemDescriptionHandle" version="1" /><!--Replace ItemDescriptionHandle with a new Handle generaged by Modders Multitool!--> 
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="IconName" /><!--Replace IconName with the name of an icon either from the game or that you are adding!-->
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					attribute id="MapKey" type="FixedString" value="4ea3d5e4-7588-4ab0-9cd5-f1a3b2eb7a27" /><!--Replace ItemUUID with a new UUID generaged by Modders Multitool and make it match the RootTemplates line in Weapons.txt!-->
+					<attribute id="Name" type="LSString" value="ATO_Scope" /><!--Replace ItemName with the name of the item!-->
+					<attribute id="ParentTemplateId" type="FixedString" value="ItemParentUUID" /><!--Replace ItemParentUUID with the UUID of a ring you want to base this off of!-->
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Scope" /><!--Replace ItemName with the name used for the item in the Weapons.txt!-->
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="VisualTemplateUUID" /><!--Replace VisualTemplateUUID with the UUID for the VisualTemplate for the model and textures of the item you want to use.!-->
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+				</node>
+            <!--Mag Tube!-->		
+				<node id="GameObjects"> 
+					<attribute id="CanShootThrough" type="bool" value="True" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
+                    <attribute id="Description" type="TranslatedString" handle="ItemDescriptionHandle" version="1" /><!--Replace ItemDescriptionHandle with a new Handle generaged by Modders Multitool!--> 
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="IconName" /><!--Replace IconName with the name of an icon either from the game or that you are adding!-->
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					attribute id="MapKey" type="FixedString" value="149ac0b7-33f6-4fde-a1eb-528aace9771b" /><!--Replace ItemUUID with a new UUID generaged by Modders Multitool and make it match the RootTemplates line in Weapons.txt!-->
+					<attribute id="Name" type="LSString" value="ATO_Mag_Tube" /><!--Replace ItemName with the name of the item!-->
+					<attribute id="ParentTemplateId" type="FixedString" value="ItemParentUUID" /><!--Replace ItemParentUUID with the UUID of a ring you want to base this off of!-->
+					<attribute id="PhysicsTemplate" type="FixedString" value="0f5b541a-5aa4-56e3-b4b9-9426f6b6989b" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="ATO_Mag_Tube" /><!--Replace ItemName with the name used for the item in the Weapons.txt!-->
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="VisualTemplateUUID" /><!--Replace VisualTemplateUUID with the UUID for the VisualTemplate for the model and textures of the item you want to use.!-->
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
