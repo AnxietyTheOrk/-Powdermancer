@@ -1,4 +1,4 @@
-new equipment "EQP_CC_Powdermancer"
+new equipment "EQP_CC_Bulletmancer"
 add initialweaponset "Ranged"
 add equipmentgroup
 add equipment entry "ATO_Broken_Lever_Action"
