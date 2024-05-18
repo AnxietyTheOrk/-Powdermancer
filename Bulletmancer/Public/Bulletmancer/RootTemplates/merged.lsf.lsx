@@ -100,7 +100,7 @@
 					<attribute id="WalkThrough" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 				</node>
-            <!--Silencer!-->		
+            	<!--Silencer!-->		
 				<node id="GameObjects"> 
 					<attribute id="CanShootThrough" type="bool" value="True" />
                     <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
@@ -124,7 +124,7 @@
 					<attribute id="WalkThrough" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 				</node>
-            <!--Scope!-->		
+            	<!--Scope!-->		
 				<node id="GameObjects"> 
 					<attribute id="CanShootThrough" type="bool" value="True" />
                     <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
@@ -148,7 +148,7 @@
 					<attribute id="WalkThrough" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855919" />
 				</node>
-            <!--Mag Tube!-->		
+            	<!--Mag Tube!-->		
 				<node id="GameObjects"> 
 					<attribute id="CanShootThrough" type="bool" value="True" />
                     <attribute id="DisplayName" type="TranslatedString" handle="ItemNameHandle" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
