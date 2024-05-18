@@ -1,7 +1,7 @@
 new equipment "EQP_CC_Powdermancer"
 add initialweaponset "Ranged"
 add equipmentgroup
-add equipment entry "Main gun"
+add equipment entry "ATO_Broken_Lever_Action"
 add equipmentgroup
 add equipment entry "maybe other weapon"
 add equipmentgroup

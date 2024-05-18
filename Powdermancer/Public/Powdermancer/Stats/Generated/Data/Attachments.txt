@@ -1,0 +1,11 @@
+new entry "ATO_Silencer"
+type "Object"
+using "Obj_GenericImmutableObjectWeightless"
+
+new entry "ATO_Scope"
+type "Object"
+using "Obj_GenericImmutableObjectWeightless"
+
+new entry "ATO_Tube_Mag"
+type "Object"
+using "Obj_GenericImmutableObjectWeightless"
